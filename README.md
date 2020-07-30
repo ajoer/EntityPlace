@@ -24,12 +24,28 @@ More to be developed and deployed in the future.
 ## UI Functionalities
 Currently, the demonstrator only supports the languages listed above.
 It has the following UI functionalities:
-- Visualization of the events in each of the lagnuages listed above;
+- Visualization of the events in each of the languages listed above;
 - Timelapse visualization of the event;
-- Visualization of the event at a praticular timestamp; 
+- Visualization of the event at a particular timestamp; 
 - The user can choose whether to create a location-based visualization (aggregation of entities in the same location) or an entity-based visualization (several entities in the same location possible)
 - Extraction and download of the visualization;
 - Cross-cultural comparison of event development;
+
+Step 1 - Initializing the visualization. User selection step:
+
+![first](/visualizations/nr_1.png)
+
+Step 2 - Timelapse generation and initial exploration:
+
+![first](/visualizations/nr_2.png)
+
+Step 3 - Timelapse play/pause and close-reading of specific timestamp using zoom feature:
+
+![first](/visualizations/nr_3.png)
+
+Step 4 - Download current map visualization as static image for inclusion in research output:
+
+![first](/visualizations/nr_4.png)
 
 ## Relevant Publications
 - Forthcoming. 
